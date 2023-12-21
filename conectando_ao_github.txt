@@ -1,0 +1,1 @@
+Por fim, apredemos sobre como conectar o git ao github, além de exercícios como esse projeto, para testar nossos conhecimentos sobre integração e integração dos serviços.
