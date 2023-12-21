@@ -1,0 +1,1 @@
+Nessa aula foram apresentados e testados os comandos mais importantes utilizados no uso geral do git
